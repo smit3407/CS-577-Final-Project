@@ -5,8 +5,6 @@ import requests
 # Import Datasets
 import hub
 
-apikey = 'AIzaSyC43adj1EzlXMRgvTfxi9fVymZ00eWSf3s'
-
 # Driver Code
 if __name__ == '__main__':
     # TODO
